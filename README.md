@@ -1,5 +1,5 @@
 # Overview
-Laravel multiple Admin and User roles authentication using <a href="https://laravel.com/docs/9.x/starter-kits#laravel-breeze" target="_blank">Laravel Breeze</a> Where User and Admin roles on registeration sent verification link to their registered email address.after email verified should able to login system.
+Laravel multiple User roles authentication using <a href="https://laravel.com/docs/9.x/starter-kits#laravel-breeze" target="_blank">Laravel Breeze</a> Where User roles will able to login via email address or mobile number sent OTP to their registered email address OR mobile number. Resend OTP should be implemented if timer expired.
 
 Server Requirements
 =====================================
